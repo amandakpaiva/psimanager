@@ -1,3 +1,3 @@
 # portifolioweb
 
-Página criada para fins de estudos
+Página criada para uso pessoal
